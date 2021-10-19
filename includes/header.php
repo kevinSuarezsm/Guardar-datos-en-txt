@@ -18,7 +18,7 @@
         <nav class="navbar navbar-dark bg-dark">
           <div class="container">
             <a class="navbar-brand">Kevin Suarez</a>
-            <a class="navbar-brand" href="index.php">Datos</a>
+            <a class="navbar-brand" href="https://github.com/kevinSuarezsm">Otros codigos</a>
           </div>
         </nav>
       </div>
