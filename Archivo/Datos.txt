@@ -1,0 +1,2 @@
+nuevo,Cedula,1234567890,calle,2021-09-30
+nuevo2,Cedula,12,2,2021-10-15
